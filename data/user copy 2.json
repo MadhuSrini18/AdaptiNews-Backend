@@ -1,0 +1,51 @@
+{
+  "user_id": "123456789",
+  "username": "example_user",
+  "email": "user@example.com",
+  "password_hash": "hashed_password_here",
+  "profile_picture": "https://example.com/profile_picture.jpg",
+  "user_history": {
+      "articles": [
+          {
+              "title": "Study Reveals Surprising Link Between Coffee Consumption and Memory Enhancement",
+              "category": "Life"
+          },
+          {
+              "title": "Groundbreaking AI Breakthrough: Self-Driving Cars Master Urban Navigation Without Human Assistance",
+              "category": "Technology"
+          }
+      ]
+  },
+  "user_keywords": {
+      "google": {"score": 0, "last_modified": 1648700000},
+      "france": {"score": 0, "last_modified": 1648700000},
+      "italy": {"score": 0, "last_modified": 1648700000},
+      "culture": {"score": 0, "last_modified": 1648700000},
+      "baguette": {"score": 0, "last_modified": 1648700000},
+      "country": {"score": 0, "last_modified": 1648700000},
+      "money": {"score": 0, "last_modified": 1648700000},
+      "robbery": {"score": 0, "last_modified": 1648700000},
+      "apple": {"score": 0, "last_modified": 1648700000},
+      "fruit": {"score": 0, "last_modified": 1648700000},
+      "cow": {"score": 5, "last_modified": 1648700000}
+  },
+  "user_categories": {
+      "Markets": {"score": 2, "last_modified": 1648700000},
+      "Business": {"score": 0, "last_modified": 1648700000},
+      "Research Reports": {"score": 2, "last_modified": 1648700000},
+      "Businessweek": {"score": 3, "last_modified": 1648700000},
+      "OnWeb": {"score": 1, "last_modified": 1648700000},
+      "Opinion/Gadfly": {"score": 0, "last_modified": 1648700000},
+      "Mutual Funds": {"score": 3, "last_modified": 1648700000},
+      "BQ Blue Exclusive": {"score": 2, "last_modified": 1648700000},
+      "Global Economics": {"score": 3, "last_modified": 1648700000},
+      "GST": {"score": 1, "last_modified": 1648700000},
+      "Pursuits": {"score": 2, "last_modified": 1648700000},
+      "Politics": {"score": 2, "last_modified": 1648700000},
+      "Technology": {"score": 0, "last_modified": 1648700000},
+      "QuickTakes": {"score": 1, "last_modified": 1648700000},
+      "Opinion/View": {"score": 0, "last_modified": 1648700000},
+      "China": {"score": 0, "last_modified": 1648700000},
+      "Life": {"score": 0.1, "last_modified": 1648700000}
+  }
+}

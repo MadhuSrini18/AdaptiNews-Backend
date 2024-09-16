@@ -1,0 +1,8 @@
+nltk
+gensim
+firebase_admin
+flask
+numpy
+pandas
+flask_cors
+flask_caching

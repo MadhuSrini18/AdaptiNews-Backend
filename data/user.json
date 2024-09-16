@@ -1,0 +1,130 @@
+{
+    "user_id": "123456789",
+    "username": "example_user",
+    "email": "user@example.com",
+    "password_hash": "hashed_password_here",
+    "profile_picture": "https://example.com/profile_picture.jpg",
+    "user_history": {
+        "articles": [
+            {
+                "title": "Study Reveals Surprising Link Between Coffee Consumption and Memory Enhancement",
+                "category": "Life"
+            }
+        ]
+    },
+    "user_keywords": {
+        "advancements": {
+            "score": 0.8,
+            "last_modified": 1712051013.130931
+        },
+        "artificial": {
+            "score": 0.8,
+            "last_modified": 1712051013.130931
+        },
+        "intelligence": {
+            "score": 0.8,
+            "last_modified": 1712051013.130931
+        },
+        "shaping": {
+            "score": 0.8,
+            "last_modified": 1712051013.130931
+        },
+        "future": {
+            "score": 0.8,
+            "last_modified": 1712051013.130931
+        },
+        "technology": {
+            "score": 0.8,
+            "last_modified": 1712051013.130931
+        },
+        "exploring": {
+            "score": 0.8,
+            "last_modified": 1712050144.041242
+        },
+        "philosophy": {
+            "score": 0.8,
+            "last_modified": 1712050144.041242
+        },
+        "existentialism": {
+            "score": 0.8,
+            "last_modified": 1712050144.041242
+        },
+        "human": {
+            "score": 0.18000000000000002,
+            "last_modified": 1712050062.390597
+        },
+        "understanding": {
+            "score": 2.5920000000000005,
+            "last_modified": 1712050062.390597
+        },
+        "psychology": {
+            "score": 0.8,
+            "last_modified": 1712050062.390597
+        },
+        "decision": {
+            "score": 0.8,
+            "last_modified": 1712050062.390597
+        },
+        "making": {
+            "score": 0.8,
+            "last_modified": 1712050062.390597
+        }
+    },
+    "user_categories": {
+        "Science": {
+            "score": 0.8,
+            "last_modified": 1712051013.130931
+        },
+        "OnWeb": {
+            "score": 2.5920000000000005,
+            "last_modified": 1712050144.041242
+        },
+        "Art": {
+            "score": 1.4400000000000002,
+            "last_modified": 1712050058.081056
+        },
+        "Environment": {
+            "score": 1.4400000000000002,
+            "last_modified": 1712050036.192425
+        },
+        "Business": {
+            "score": 0.0,
+            "last_modified": 1712049945.281864
+        },
+        "Life": {
+            "score": 0.1,
+            "last_modified": 1712048431.113002
+        },
+        "Technology": {
+            "score": 0,
+            "last_modified": 1712048431.113002
+        },
+        "Nature": {
+            "score": 0.8,
+            "last_modified": 1711820408.861159
+        },
+        "Self-Help": {
+            "score": 0.8,
+            "last_modified": 1711820402.950997
+        }
+    },
+    "liked_articles": [
+        {
+            "title": "Healthy Eating Habits: Tips for a Balanced Diet and Nutritional Wellness",
+            "category": "Health"
+        },
+        {
+            "title": "The Importance of Exercise: Enhancing Physical Health and Fitness",
+            "category": "Health"
+        },
+        {
+            "title": "Exploring the Philosophy of Existentialism: Finding Meaning in a Chaotic World",
+            "category": "Education"
+        },
+        {
+            "title": "Advancements in Artificial Intelligence: Shaping the Future of Technology",
+            "category": "Science"
+        }
+    ],
+    "disliked_articles": []
+}
